@@ -1,0 +1,8 @@
+Installation instructions 
+
+1. To install the backend. 
+ - Install python in you pc
+ - Run it by navigating to the folder containing the backend. 
+ - Run python flaskapp.py
+
+2. it will run a server in the background and can be accessed using the url localhost:500/
